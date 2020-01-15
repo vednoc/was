@@ -1,0 +1,3 @@
+#+TITLE: WhatsApp Stylesheet
+
+Repository to keep track of WhatsApp Web stylesheet changes.
